@@ -131,7 +131,7 @@ Through this project I learned how to:
 
 ## 👨‍💻 Author
 
-### Youssef Mohamed
+### Youssef Gado
 
 Flutter Developer
 
