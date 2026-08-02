@@ -11,14 +11,6 @@ This project was built as my **first Flutter application** to practice Flutter f
 
 ---
 
-## 📱 Preview
-
-<p align="center">
-  <img src="assets/images/birthdayCard.jpg" alt="Birthday Card App Screenshot" width="300"/>
-</p>
-
----
-
 ## 🎯 Project Objectives
 
 - Practice using the **Stack** widget to create layered user interfaces.
