@@ -11,34 +11,36 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       home: Scaffold(
-        body: Stack(
-          children: [
-            Image.asset(
-              'assets/images/birthdayCard.jpg',
-              fit: BoxFit.cover,
-              height: double.infinity,
-              width: double.infinity,
-            ),
-            Center(
-              child: Text(
-                textAlign: TextAlign.center,
-                'Happy Birthday',
-                style: TextStyle(
-                  color: Colors.red,
-                  fontSize: 25,
-                  fontWeight: FontWeight.bold,
-                  fontFamily: 'Pacifico',
-                  shadows: [
-                    Shadow(
-                      blurRadius: 15,
-                      color: Colors.black.withOpacity(0.6),
-                      offset: const Offset(4, 4),
-                    ),
-                  ],
+        body: SafeArea(
+          child: Stack(
+            children: [
+              Image.asset(
+                'assets/images/birthdayCard.jpg',
+                fit: BoxFit.cover,
+                height: double.infinity,
+                width: double.infinity,
+              ),
+              Center(
+                child: Text(
+                  textAlign: TextAlign.center,
+                  'Happy Birthday',
+                  style: TextStyle(
+                    color: Colors.red,
+                    fontSize: 25,
+                    fontWeight: FontWeight.bold,
+                    fontFamily: 'Pacifico',
+                    shadows: [
+                      Shadow(
+                        blurRadius: 15,
+                        color: Colors.black.withOpacity(0.6),
+                        offset: const Offset(4, 4),
+                      ),
+                    ],
+                  ),
                 ),
               ),
-            ),
-          ],
+            ],
+          ),
         ),
       ),
     );
