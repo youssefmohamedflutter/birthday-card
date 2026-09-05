@@ -162,9 +162,9 @@ Youssef Mohamed
 
 Flutter Developer
 
-💼 LinkedIn: Youssef Mohamed
+💼 LinkedIn: https://www.linkedin.com/in/youssef-gado-7a2891423/
 
-💻 GitHub: youssefmohamedflutter
+💻 GitHub: [youssefmohamedflutter](https://github.com/youssefmohamedflutter)
 
 ⭐ Support
 
