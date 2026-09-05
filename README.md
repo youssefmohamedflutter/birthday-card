@@ -1,143 +1,185 @@
-# 🎂 Birthday Card App
+🎂 Birthday Card App
 
-![Flutter](https://img.shields.io/badge/Flutter-3.0-blue?logo=flutter)
-![Dart](https://img.shields.io/badge/Dart-3.0-blue?logo=dart)
-![Platform](https://img.shields.io/badge/Platform-Android-success)
-![License](https://img.shields.io/badge/License-MIT-green)
+￼
+￼
+￼
+￼
 
-A simple and elegant **Flutter Birthday Card application** that displays a beautiful birthday greeting over a full-screen background image.
+A simple and elegant Flutter Birthday Card application that displays a beautiful birthday greeting using a full-screen background image.
 
-This project was built as my **first Flutter application** to practice Flutter fundamentals, understand widget composition, and learn how to build responsive mobile user interfaces.
+This project was built as my first Flutter application to practice Flutter fundamentals, understand widget composition, and learn how to create a simple and responsive mobile user interface.
 
----
+🎯 Project Objectives
 
-## 🎯 Project Objectives
+The main objectives of this project were to practice:
 
-- Practice using the **Stack** widget to create layered user interfaces.
-- Learn how to display local assets using **Image.asset**.
-- Understand different **BoxFit** options.
-- Practice **Text** styling, alignment, and shadows.
-- Learn how to integrate **custom fonts**.
-- Organize Flutter project assets correctly.
+Understanding the basic structure of a Flutter application.
 
----
+Using MaterialApp and Scaffold.
 
-## ✨ Features
+Working with StatelessWidget.
 
-- 🖼️ Full-screen background image
-- 🎂 Beautiful birthday greeting message
-- 🎨 Custom text styling with shadows
-- 🔤 Pacifico custom font
-- 📱 Responsive layout
-- ⚡ Simple and clean UI
-- 💙 Built entirely with Flutter
+Using the SafeArea widget.
 
----
+Building layered user interfaces with the Stack widget.
 
-## 🛠️ Technologies Used
+Displaying local images using Image.asset.
 
-- **Flutter**
-- **Dart**
-- Material Design
-- Stack Widget
-- Image.asset
-- Custom Fonts
-- Safe Flutter Layout
+Understanding BoxFit.cover.
 
----
+Using Column for vertical layout.
 
-## 📂 Project Structure
+Styling and aligning text.
 
-```text
-lib/
- └── main.dart
+Organizing Flutter assets correctly.
 
-assets/
- ├── images/
- │    └── birthdayCard.jpg
- └── fonts/
-      └── Pacifico-Regular.ttf
-```
+✨ Features
 
----
+🎂 Birthday greeting message
 
-## 📋 Prerequisites
+🖼️ Full-screen background image
+
+🎨 Styled and centered text
+
+📱 Responsive layout
+
+🧩 Layered UI using Stack
+
+🖼️ Local image assets
+
+⚡ Simple and clean UI
+
+💙 Built entirely with Flutter
+
+🛠️ Technologies & Widgets Used
+
+Technologies
+
+Flutter
+
+Dart
+
+Material Design
+
+Flutter Widgets
+
+MaterialApp
+
+Scaffold
+
+SafeArea
+
+Stack
+
+Column
+
+Center
+
+Text
+
+Image
+
+Flutter Concepts
+
+Stateless Widgets
+
+Widget Composition
+
+Asset Management
+
+Responsive Layout
+
+Text Styling
+
+BoxFit.cover
+
+📂 Project Structure
+
+lib/ └── main.dart assets/ └── images/ ├── brithday_image.jpg └── text.png 
+
+📋 Prerequisites
 
 Before running this project, make sure you have:
 
-- Flutter SDK (3.0.0 or later)
-- Android Studio or Visual Studio Code
-- Flutter & Dart extensions installed
+Flutter SDK 3.0.0 or later
 
----
+Dart SDK
 
-## 🚀 Getting Started
+Android Studio or Visual Studio Code
 
-### 1. Clone the repository
+Flutter & Dart extensions installed
 
-```bash
-git clone https://github.com/youssefmohamedflutter/birthday-card.git
-```
+🚀 Getting Started
 
-### 2. Navigate to the project directory
+1. Clone the repository
 
-```bash
-cd birthday-card
-```
+git clone https://github.com/youssefmohamedflutter/birthday-card.git 
 
-### 3. Install dependencies
+2. Navigate to the project directory
 
-```bash
-flutter pub get
-```
+cd birthday-card 
 
-### 4. Run the application
+3. Install dependencies
 
-```bash
-flutter run
-```
+flutter pub get 
 
----
+4. Run the application
 
-## 📸 Screenshot
+flutter run 
 
-<p align="center">
-  <img src="assets/images/ScreenShot.png" alt="Birthday Card" width="300"/>
-</p>
+📸 Screenshot
 
----
+📚 What I Learned
 
-## 📚 What I Learned
+Through this project, I learned how to:
 
-Through this project I learned how to:
+Understand the basic structure of a Flutter application.
 
-- Build layouts using Flutter widgets
-- Use the **Stack** widget effectively
-- Add and manage local assets
-- Integrate custom fonts
-- Style text professionally
-- Structure a Flutter project
-- Create a simple yet attractive UI
+Create and use a StatelessWidget.
 
----
+Build user interfaces using Flutter widgets.
 
-## 👨‍💻 Author
+Use MaterialApp and Scaffold.
 
-### Youssef Gado
+Create layered layouts using Stack.
+
+Use SafeArea to keep content within the safe screen area.
+
+Display and manage local image assets.
+
+Use BoxFit.cover for background images.
+
+Style and align text.
+
+Organize a simple Flutter project.
+
+💡 Project Overview
+
+The application uses a full-screen background image with a centered birthday message displayed on top of it.
+
+The Stack widget is used to place multiple widgets on top of each other:
+
+A background image that fills the screen.
+
+A Column containing the birthday greeting and an additional image.
+
+This project helped me understand how Flutter widgets can be combined to create simple and attractive user interfaces.
+
+👨‍💻 Author
+
+Youssef Gado
 
 Flutter Developer
 
-- 💼 LinkedIn: https://www.linkedin.com/in/youssef-gado-7a2891423/
-- 💻 GitHub: https://github.com/youssefmohamedflutter
+💼 LinkedIn: Youssef Gado
 
----
+💻 GitHub: youssefmohamedflutter
 
-## ⭐ Support
+⭐ Support
 
-If you like this project, don't forget to **star ⭐ the repository**.
+If you like this project, don't forget to star ⭐ the repository.
 
----
+📄 License
 
-## 📄 License
+This project is licensed under the MIT License.
 
-This project is licensed under the **MIT License**.
