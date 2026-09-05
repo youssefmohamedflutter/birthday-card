@@ -165,7 +165,8 @@ flutter run
 
 👨‍💻 Author
 
-Youssef Mohamed Flutter Developer
+Youssef Gado
+Flutter Developer
 
 💼 LinkedIn: [youssef-gado](https://www.linkedin.com/in/youssef-gado-7a2891423/)
 
