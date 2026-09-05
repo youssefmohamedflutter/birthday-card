@@ -3,6 +3,7 @@
 ![Dart](https://img.shields.io/badge/Dart-3.0-blue?logo=dart)
 ![Platform](https://img.shields.io/badge/Platform-Android-success)
 ![License](https://img.shields.io/badge/License-MIT-green)
+
 A simple Birthday Card mobile application built with Flutter.
 
 This project was created as my first Flutter application to practice the fundamentals of Flutter and understand how different widgets work together to build a simple user interface.
@@ -165,9 +166,9 @@ flutter run
 
 Youssef Mohamed Flutter Developer
 
-💼 LinkedIn: youssef-gado
+💼 LinkedIn: [youssef-gado](https://www.linkedin.com/in/youssef-gado-7a2891423/)
 
-💻 GitHub: youssefmohamedflutter
+💻 GitHub: [youssefmohamedflutter](https://github.com/youssefmohamedflutter)
 
 ⭐ Support
 
